@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hzlnqodrey
-- 👀 I’m interested in Designing Algorithm, UI/UX Researcher, Web Development, Machine Learning, AI, VR, and AR
+- 👀 I’m interested in Designing Algorithm, UI/UX Researcher, Web Development, Data Scientist, Machine Learning, AI, VR, and AR
 - 🌱 I’m currently learning Advanced Algorithm, Data Structure in C++, also Web Development Back-End(PHP, MySQL) and Front-End (JS, JQuery, TypeScript, and Bootstrap 4)
 - 🌱 I'm also learned Basic C#, Basic Python.
 - 💞️ I’m looking to collaborate on Any Project for Junior Programmer 

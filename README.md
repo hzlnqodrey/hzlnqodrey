@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hzlnqodrey
 - 👀 I’m interested in Designing Algorithm, UI/UX Researcher, Web Development, Data Scientist, Machine Learning, AI, VR, and AR
-- 🌱 I’m currently learning Advanced Algorithm, Data Structure in C++, also Web Development Back-End(PHP, MySQL) and Front-End (JS, JQuery, TypeScript, and Bootstrap 4)
-- 🌱 I'm also learned Basic C#, Basic Python.
+- 🌱 I’m currently learning Advanced Algorithm, Data Structure in C++,  Web Development -> MERN [MongoDB, ExpressJS, Reactjs/native, Nodejs] also RESTful API 
+- 🌱 I'm also learned Basic C# for Unity, Python for Tensor Flow, and Java for GUI.
 - 💞️ I’m looking to collaborate on Any Project for Junior Programmer 
 - 📫 How to reach me 
     email  : hazlanqodri2020work@gmail.com

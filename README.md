@@ -6,7 +6,7 @@
 - 📫 How to reach me 
     email  : hazlanqodri2020work@gmail.com
     ig     : hzln.qodrey
-    twitter: @hzlnqodrey
+    twitter: @ClermontCJ
 
 <!---
 hzlnqodrey/hzlnqodrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

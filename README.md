@@ -4,9 +4,9 @@
 - 🌱 I'm also learned Basic C# for Unity, Python for Tensor Flow, and Java for GUI.
 - 💞️ I’m looking to collaborate on Any Project for Junior Programmer 
 - 📫 How to reach me 
-    email  : hazlanqodri2020work@gmail.com
-    ig     : hzln.qodrey
-    twitter: @ClermontCJ
+    + email  : hazlanqodri2020work@gmail.com
+    + ig     : hzln.qodrey
+    + twitter: @ClermontCJ
 
 <!---
 hzlnqodrey/hzlnqodrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

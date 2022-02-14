@@ -6,7 +6,6 @@
 - 📫 How to reach me 
     + email  : hazlanqodri2020work@gmail.com
     + ig     : hzln.qodrey
-    + twitter: @ClermontCJ
 
 <p align="left">
 <a href="https://github.com/hzlnqodrey">

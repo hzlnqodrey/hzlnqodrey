@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hzlnqodrey
 - 📫 How to reach me 
-    + email  : hazlanqodri2020work@gmail.com
-    + ig     : hzln.qodrey
-
+    + email     : hazlanqodri2020work@gmail.com
+    + ig        : hzln.qodrey
+    + linkedin  : https://www.linkedin.com/in/hazlanmqodri/
 <p align="left">
 <a href="https://github.com/hzlnqodrey">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hzlnqodrey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

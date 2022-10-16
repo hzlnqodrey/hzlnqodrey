@@ -2,7 +2,10 @@
 - 📫 How to reach me 
     + email     : hazlanqodri2020work@gmail.com
     + ig        : hzln.qodrey
-    + linkedin  : https://www.linkedin.com/in/hazlanmqodri/
+    + linkedin  : linkedin.com/in/hazlanmqodri
+    + website   : hzlnqodrey.herokuapp.com
+- ### Tools
+     ![image](https://user-images.githubusercontent.com/57006944/196051354-5f3af7b5-43e7-41f9-8890-92d810a2ade1.png)
 <p align="left">
 <a href="https://github.com/hzlnqodrey">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hzlnqodrey&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

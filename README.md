@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @hzlnqodrey, Currently working as software engineer backend and managing cloud infra at TeDi
 - 📫 How to reach me 
     + email     : hazlanqodri2020work@gmail.com
-    + ig        : hzln.qodrey
-    + linkedin  : linkedin.com/in/hazlanmqodri
-    + website   : hzlnqodrey.herokuapp.com
+    + ig        : https://www.instagram.com/hzln.qodrey/
+    + linkedin  : https://www.linkedin.com/in/hazlanmqodri/
+    + website   : http://hzlnqodrey.herokuapp.com/
 - ### Tools
      ![image](https://user-images.githubusercontent.com/57006944/196051354-5f3af7b5-43e7-41f9-8890-92d810a2ade1.png)
 <p align="left">

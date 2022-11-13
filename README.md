@@ -4,7 +4,7 @@
     + ig        : https://www.instagram.com/hzln.qodrey/
     + linkedin  : https://www.linkedin.com/in/hazlanmqodri/
     + website   : http://hzlnqodrey.herokuapp.com/
-- ### Tools
+- ### Used Tech Stack:
      ![image](https://user-images.githubusercontent.com/57006944/196051354-5f3af7b5-43e7-41f9-8890-92d810a2ade1.png)
 <!---
 hzlnqodrey/hzlnqodrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

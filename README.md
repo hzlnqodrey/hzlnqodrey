@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @hzlnqodrey, Currently working as software engineer backend and managing cloud infra at TeDi
+- 🖥️ I'm interested at software production processes, system engineering, and software architecture
 - 📫 How to reach me 
     + email     : hazlanqodri2020work@gmail.com
     + ig        : https://www.instagram.com/hzln.qodrey/

@@ -3,6 +3,10 @@
     + ig        : https://www.instagram.com/hzln.qodrey/
     + linkedin  : https://www.linkedin.com/in/hazlanmqodri/
     + website   : [hzlnqodrey-portofolio.vercel.app/](https://hzlnqodrey-portofolio.vercel.app/)
+- 🤓 I learn at here
+    + Golang    : https://dasarpemrogramangolang.novalagung.com/
+    + C++       : https://youtu.be/mUQZ1qmKlLY      (the way he explained is funny as heck)
+    + TypeScript: https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n
 - ### Used Tech Stack:
      ![image](https://user-images.githubusercontent.com/57006944/196051354-5f3af7b5-43e7-41f9-8890-92d810a2ade1.png)
 <!---

@@ -4,7 +4,7 @@
     + linkedin  : https://www.linkedin.com/in/hazlanmqodri/
     + website   : [hzlnqodrey-portofolio.vercel.app/](https://hzlnqodrey-portofolio.vercel.app/)
 - 🤓 I learn at here
-    + Golang    : https://dasarpemrogramangolang.novalagung.com/
+    + Golang    : https://dasarpemrogramangolang.novalagung.com/ and https://youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
     + C++       : https://youtu.be/mUQZ1qmKlLY      (the way he explained is funny as heck)
     + TypeScript: https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n
 - ### Used Tech Stack:

@@ -14,7 +14,7 @@
     + Java (Framework: Springboot)
     + Golang (Framework: Fiber)
     + Python (Framework: FastAPI and Flash)
-- 🎨 My Frontend Framework so far:
+- 🎨 My Frontend Stack so far:
     + TypeScript
     + ReactJS
     + NextJS

@@ -7,6 +7,8 @@
     + Golang    : https://dasarpemrogramangolang.novalagung.com/ and https://youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
     + C++       : https://youtu.be/mUQZ1qmKlLY      (the way he explained is funny as heck)
     + TypeScript: https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n
+    + Spring Boot: (TBA)
+    + Rust: (TBA)
 - ### Used Tech Stack:
      ![image](https://user-images.githubusercontent.com/57006944/196051354-5f3af7b5-43e7-41f9-8890-92d810a2ade1.png)
 <!---

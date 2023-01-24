@@ -9,6 +9,11 @@
     + TypeScript: https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n
     + Spring Boot: (TBA)
     + Rust: (TBA)
+- My Backend Language So far:
+    + NodeJS (Framework: ExpressJS and HapiJS)
+    + Java (Framework: Springboot)
+    + Golang (Framework: Fiber)
+    + Python (Framework: FastAPI and Flash)
 - ### Used Tech Stack:
      ![image](https://user-images.githubusercontent.com/57006944/196051354-5f3af7b5-43e7-41f9-8890-92d810a2ade1.png)
 <!---

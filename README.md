@@ -4,7 +4,7 @@
     + linkedin  : https://www.linkedin.com/in/hazlanmqodri/
     + website   : [hzlnqodrey-portofolio.vercel.app/](https://hzlnqodrey-portofolio.vercel.app/)
 - 🤓 I learn at here
-    + Golang    : [Link1](https://dasarpemrogramangolang.novalagung.com/) and [Link2]([https://youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6](https://lets-go.alexedwards.net/sample/00.00-front-matter.html))
+    + Golang    : [Link1](https://dasarpemrogramangolang.novalagung.com/) and [Link2](https://lets-go.alexedwards.net/sample/00.00-front-matter.html)
     + C++       : [Link](https://youtu.be/mUQZ1qmKlLY)      (the way he explained is funny as heck)
     + TypeScript: [Link](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
     + Spring Boot: Various YouTube Tutorial

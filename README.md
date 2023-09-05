@@ -9,7 +9,7 @@
     + TypeScript: [Link](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
     + Spring Boot: Various YouTube Tutorial
     + Rust: Haven't learning yet but I have the resources [Link](https://www.google.com/search?gs_ssp=eJzj4tVP1zc0LEo3TLfIzjA1YPQSLiotLlFIyy9SADESk1MT84oBzGAMDA&q=rust+for+rustaceans&oq=Rust+for+Rustan&gs_lcrp=EgZjaHJvbWUqCQgBEC4YDRiABDIGCAAQRRg5MgkIARAuGA0YgAQyCQgCEAAYDRiABDIJCAMQABgNGIAEMgkIBBAAGA0YgAQyCQgFEAAYDRiABDIJCAYQABgNGIAEMgoIBxAAGIYDGIoFMgoICBAAGIYDGIoF0gEIMjQ4MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
-    + Elixir: FOMO, Haven't learning yet but I have the resources 2 [Link](https://www.youtube.com/watch?v=IiIgm_yaoOA)
+    + Elixir: FOMO, Haven't learning yet but I have the resources 2 [Link](https://www.youtube.com/watch?v=IiIgm_yaoOA) and [Link2](https://twitter.com/rizafahmi22/status/1590171567274618880)
 - 🛠️ My Backend Language So far:
     + NodeJS (Framework: ExpressJS and HapiJS)
     + Java (Framework: Springboot)

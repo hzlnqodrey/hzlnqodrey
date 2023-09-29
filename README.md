@@ -1,6 +1,5 @@
 - 📫 How to reach me 
     + email     : hazlanqodri2020work@gmail.com
-    + ig        : https://www.instagram.com/hzln.qodrey/
     + linkedin  : https://www.linkedin.com/in/hazlanmqodri/
     + website   : [hzlnqodrey-portofolio.vercel.app/](https://hzlnqodrey-portofolio.vercel.app/)
 - 🤓 I learn at here

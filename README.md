@@ -16,7 +16,7 @@
     + NodeJS (Framework: ExpressJS and HapiJS)
     + Java (Framework: Springboot)
     + Golang (Framework: Fiber)
-    + Python (Framework: FastAPI and Flash)
+    + Python (Framework: FastAPI and Flask)
 - 🎨 My Frontend Stack so far:
     + TypeScript
     + ReactJS

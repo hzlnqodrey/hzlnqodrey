@@ -1,3 +1,13 @@
+<h1> Yo 👋🏼 </h1>
+
+**** Hazlan Muhammad Qodri (hzln for short), Indonesia** <br><br>
+![Profile View](https://komarev.com/ghpvc/?username=hzlnqodrey&color=red) <br>
+-------------------------------------------------------------------------------------------------------------------------
+
+Heyyo, name is  Hazlan Muhammad Qodri. Bachelor CompSci that's for sure. (that's why I'm kinda half-evicted - cordoned?)
+
+- Choom is currently working at Flip.id
+
 - 📫 How to reach me 
     + email     : hazlanqodri2020work@gmail.com
     + linkedin  : https://www.linkedin.com/in/hazlanmqodri/

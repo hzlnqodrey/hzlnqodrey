@@ -2,24 +2,22 @@
     + email     : hazlanqodri2020work@gmail.com
     + linkedin  : https://www.linkedin.com/in/hazlanmqodri/
     + website   : [hzlnqodrey-portofolio.vercel.app/](https://hzlnqodrey-portofolio.vercel.app/)
-- 🤓 I learn at here
-    + Golang    : [Link1](https://dasarpemrogramangolang.novalagung.com/) and [Link2](https://lets-go.alexedwards.net/sample/00.00-front-matter.html)
-    + C++       : [Link](https://youtu.be/mUQZ1qmKlLY)      (the way he explained is funny as heck)
-    + TypeScript: [Link](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
 
+- Main Interest 
     + DevOps and SRE: https://kubernetes.io/docs/home/
     + Books: https://sre.google/books/
-    + InfoSec and CyberSecurity Labs:
-    + TryHackMe
-    + Crackmes
-    + HackerOne
-    + PortSwigger
+    + InfoSec and CyberSecurity Labs: TryHackMe, Crackmes, HackerOne, PortSwigger
+
+- Side Love
+    + Open to Freelance Full-Stack Developer
+    + trying to contribute for Free Open-Source Software (FOSS)
 
 - 🛠️ Do Backend with:
     + NodeJS (Framework: ExpressJS and HapiJS)
     + Java (Framework: Springboot)
     + Golang (Framework: Fiber)
     + Python (Framework: FastAPI and Flask)
+ 
 - 🎨 Do Frontend with:
     + TypeScript
     + ReactJS
@@ -30,11 +28,20 @@
 - ### Used Tech Stack:
      ![image](https://user-images.githubusercontent.com/57006944/196051354-5f3af7b5-43e7-41f9-8890-92d810a2ade1.png)
 
-<h3 align="left">🔥   My Stats :</h3>
 
-<div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hzlnqodrey&border_radius=4.8&fire=EB5454&stroke=7830EB&background=45%2C7EFFCD%2CE0ABCE&dates=000000" alt="GitHub Streak" /></a>
-</div>
+- 🤓 I learn at here
+    + Golang    : [here](https://dasarpemrogramangolang.novalagung.com/) and [here](https://lets-go.alexedwards.net/sample/00.00-front-matter.html)
+    + C++       : [here](https://youtu.be/mUQZ1qmKlLY)      (the way he explained is funny as heck)
+    + TypeScript: [here](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
+ 
+- Hobby:
+    + Listening to Music, here my [spotify profile](https://open.spotify.com/user/gs81mm4ptwa64y7k5nhh8i4n9?si=7c20a843da0f4571). (ps: I created so many playlist lol)
+    + Reading a Novel and Manga
+    + Mindful binge a movies and series
+    + Gaming
+    + Running
+    + Workout
+
 <!---
 hzlnqodrey/hzlnqodrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

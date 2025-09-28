@@ -50,6 +50,7 @@ Heyyo, name is Hazlan Muhammad Qodri. Bachelor CompSci that's for sure. (that's 
     + Gaming
     + Running
     + Workout
+    + learning a crochet
 
 <!---
 hzlnqodrey/hzlnqodrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
